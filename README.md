@@ -1,7 +1,3 @@
-# myrepo
-testing my setup
+# python39
 
-This is a line from RStudio.
-
-This is another line from RStudio.
-
+Fun projects using Python 3.9.0, the latest release of the Python programming language, and it contains many new features and optimizations.
